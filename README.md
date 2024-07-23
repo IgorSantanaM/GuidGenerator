@@ -11,7 +11,7 @@ This project demonstrates generating and printing GUIDs using C#.
 Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/your-username/GuidGenerator.git
+git clone https://github.com/IgorSantanaM/GuidGenerator.git
 ```
 ### Navigate to the Project Directory
 ```bash

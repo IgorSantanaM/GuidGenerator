@@ -1,4 +1,4 @@
-# Guid Generator
+# GuidGenerator
 
 This project demonstrates generating and printing GUIDs using C#.
 
